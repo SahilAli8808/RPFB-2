@@ -21,7 +21,7 @@ export default function Header() {
                 style={{ width: "50px", marginTop: "-10px" }}
                 alt="bluebook"
               />
-              Bluebook
+              The  Bluebook Foundation
             </Link>
             <button
               className="navbar-toggler"
